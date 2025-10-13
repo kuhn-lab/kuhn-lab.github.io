@@ -31,32 +31,46 @@ permalink: /team/
 <div class="team-grid">
 
 <div class="team-member">
-  <img src="/assets/images/jane-doe.jpg" alt="Dr. Jane Doe">
-  <strong>Dr. Jane Doe</strong><br>
-  Professor, Neural Interfaces<br>
-  <a href="mailto:jane.doe@example.com">jane.doe@example.com</a>
+  <!--<img src="/assets/images/jane-doe.jpg" alt="Dr. Jane Doe">-->
+  <strong>Prof. Alexandre Kuhn</strong><br>
+  <br>
+<!--<a href="mailto:alexandre.kuhn@hevs.ch">alexandre.kuhn@hevs.ch</a>-->
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/john-smith.jpg" alt="Dr. John Smith">
-  <strong>Dr. John Smith</strong><br>
-  Postdoc, Climate AI<br>
+  <strong>Dr. Sarah Wegmüller</strong><br>
+ Senior scientist, Molecular Biology<br>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/alice-muller.jpg" alt="Dr. Alice Müller">
-  <strong>Dr. Alice Müller</strong><br>
-  Postdoc, VR Cognition<br>
+  <strong>Dr. Théophile Gentilhomme</strong><br>
+  Senior scientist, ML/AI<br>
 </div>
 
 <div class="team-member">
-  <img src="/assets/images/maria-rossi.jpg" alt="Maria Rossi">
-  <strong>Maria Rossi</strong><br>
-  PhD Student, Neural Signal Processing<br>
+  <strong>Sarah Scotton</strong><br>
+  Lab manager<br>
 </div>
+
+<div class="team-member">
+  <strong>Dr. Aline Adler</strong><br>
+  Postdoc, Bioinformatics<br>
+</div>
+
+<div class="team-member">
+  <strong>Mickaël Seppey</strong><br>
+  PhD studdent, Diagnostic in oncology<br>
+</div>
+
+<div class="team-member">
+  <strong>Sara Villamayor</strong><br>
+  Research assistant, Human genetics<br>
+</div>
+
 
 </div>
 
+<!--
 ---
 
 ## 🤝 Collaborators
@@ -66,8 +80,9 @@ permalink: /team/
 - Dr. Omar El-Sayed – University of Cambridge
 
 ---
+-->
 
 ## 📬 Join Us
 
-We welcome inquiries from prospective students, postdocs, and collaborators. Visit our [Join Us](/join/) page or [contact us](mailto:your-email@example.com) for more information.
+We welcome inquiries from prospective students, postdocs, and collaborators. [contact us](mailto:alexndre.kuhn@hevs.ch) for more information.
 

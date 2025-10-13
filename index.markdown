@@ -7,11 +7,11 @@ layout: home
 
 ## Welcome
 
-We are a multidisciplinary research group based at the <a href="https://www.hevs.ch/en/applied-research/research-institute-of-life-sciences/" target="_blank" rel="noopener noreferrer">Institute of Life Sciences</a>. We are bridging biology, computer science and engineering to tackle fundamental questions and develop biotechnological innovations. We are also specialized in long read DNA sequencing (Oxford nanopore).
+We are a multidisciplinary research group based at the <a href="https://www.hevs.ch/en/applied-research/research-institute-of-life-sciences/" target="_blank" rel="noopener noreferrer">Institute of Life Sciences</a>. We are bridging biology, computer science and engineering to tackle fundamental questions and develop innovations in biotechnology. We are also specialized in long read DNA sequencing using Oxford nanopore technologies.
 
-## 🔬 Research Areas
+## 🔬 Research Areas and missions
 
-- **Bioproduction**: Accelerateing bio-based production.
+- **Bioproduction**: Accelerating bio-based production.
 - **Disease diagnostic**: Improving diagnostics of genetic diseases and cancer.
 - **Environment**: Enhancing environmental health assessments.
 

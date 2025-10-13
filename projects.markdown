@@ -4,18 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
-## 🧪 Ongoing Research Projects
+<!-- ## 🧪 Ongoing Research Projects-->
+## Ongoing Research Projects
 
-### **Project Alpha: Neural Interfaces for Prosthetics**
-![Neural Interfaces](assets/images/project-alpha.jpg)
-- **Lead:** Dr. Jane Doe  
-- **Collaborators:** MIT, ETH Zurich  
-- **Summary:** Developing brain-computer interfaces to restore motor function in amputees using real-time neural decoding.
-- **Funding:** SNSF  
-- **Status:** Active (2024–2027)
+### **Project Biofoundry: Automating the development of bacterial strains for bioproduction**
+- **Funding:** University of Applied Sciences and Arts, Western Switzerland 
+- **Status:** Active
 
 ---
 
+### **Project VITAE: Profiling soil microorganisms**
+- **Funding:** University of Applied Sciences and Arts, Western Switzerland
+- **Status:** Active
+
+---
+
+### **Project HYPERCELL: Single cell level assessment of adoptive T cell therapy**
+- **Funding:** Swiss National Science Foundation
+- **Status:** Active
+
+<!--
 ### **Project Beta: AI for Climate Modeling**
 ![Climate Modeling](assets/images/project-beta.jpg)
 - **Lead:** Prof. John Smith  
@@ -34,10 +42,10 @@ permalink: /projects/
 - **Summary:** Investigated how immersive VR environments affect cognitive performance and memory retention.
 - **Outcome:** Published in *Nature Human Behaviour*, 2022  
 - **Status:** Completed
-
+-->
 ---
 
 ## 📥 Interested in Collaborating?
 
-We welcome interdisciplinary partnerships. If you're interested in joining or collaborating on a project, [contact us](mailto:your-email@example.com) or visit our [Join Us](/join/) page.
+We welcome interdisciplinary and industrial partnerships. If you're interested in joining or collaborating on a project, [contact us](mailto:alexandre.kuhn@hevs.ch).
 
