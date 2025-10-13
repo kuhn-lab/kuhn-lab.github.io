@@ -17,5 +17,5 @@ We are a multidisciplinary research group based at the <a href="https://www.hevs
 
 ## DNA Sequencing Service
 
-We are also specialized in long read DNA sequencing using Oxford nanopore technologies. We are an [official Oxford Nanopore sequencing service provider](https://oxfordnanoporedx.com/about/partners/sequencing-service-providers/institute-of-life-technologies-university-of-applied-sciences-and-arts-western-switzerland-hes-so-valais-wallis).
+We are also specialized in long read DNA sequencing using Oxford nanopore technologies. We are an <a href="https://oxfordnanoporedx.com/about/partners/sequencing-service-providers/institute-of-life-technologies-university-of-applied-sciences-and-arts-western-switzerland-hes-so-valais-wallis" target="_blank" rel="noopener noreferrer">official Oxford Nanopore sequencing service provider</a>.
 
