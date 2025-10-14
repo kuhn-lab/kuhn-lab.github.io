@@ -13,7 +13,7 @@ We are a multidisciplinary research group based at the <a href="https://www.hevs
 
 - **Bioproduction**: Accelerating bioproduction, streamlining cell development.
 - **Disease diagnostic**: Advancing diagnostics of genetic diseases and cancer.
-- **Environment**: Driving high-resolution profiling of environmental microbiomes.
+- **Environment**: Characterizing environmental and animal microbiomes.
 
 ### DNA Sequencing Service
 
