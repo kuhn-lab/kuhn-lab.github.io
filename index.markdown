@@ -11,11 +11,11 @@ We are a multidisciplinary research group based at the <a href="https://www.hevs
 
 ## 🔬 Research Areas and Missions
 
-- **Bioproduction**: Accelerating bio-based production.
-- **Disease diagnostic**: Improving diagnostics of genetic diseases and cancer.
-- **Environment**: Enhancing environmental health assessments.
+- **Bioproduction**: Accelerating bioproduction, streamlining cell development.
+- **Disease diagnostic**: Advancing diagnostics of genetic diseases and cancer.
+- **Environment**: Driving high-resolution profiling of environmental microbiomes.
 
 ### DNA Sequencing Service
 
-We are also specialized in long read DNA sequencing using Oxford nanopore technologies. We are an <a href="https://oxfordnanoporedx.com/about/partners/sequencing-service-providers/institute-of-life-technologies-university-of-applied-sciences-and-arts-western-switzerland-hes-so-valais-wallis" target="_blank" rel="noopener noreferrer">official Oxford Nanopore sequencing service provider</a>.
+We are also specialized in long read DNA sequencing. We are an <a href="https://oxfordnanoporedx.com/about/partners/sequencing-service-providers/institute-of-life-technologies-university-of-applied-sciences-and-arts-western-switzerland-hes-so-valais-wallis" target="_blank" rel="noopener noreferrer">official service provider of Oxford Nanopore sequencing</a>.
 

@@ -39,7 +39,7 @@ permalink: /team/
 
 <div class="team-member">
   <strong>Dr. Sarah Wegmüller</strong><br>
- Senior scientist, Molecular Biology<br>
+ Senior scientist, Molecular Biology and Sequencing<br>
 </div>
 
 <div class="team-member">
