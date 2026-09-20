@@ -29,3 +29,5 @@ Website of the Molecular Biology Lab (Institute of Life Sciences, Sion), publish
 - Don't write prose about the lab or its research. Where content is missing, leave a clearly marked `TODO` comment and list it for the owner (e.g. `about.markdown` is a TODO placeholder).
 - Don't add self-credit or co-author lines to commit messages.
 - Ask before installing anything system-wide (apt etc.); the owner runs `sudo` commands themselves.
+
+Planned work is tracked in GitHub issues.
