@@ -11,7 +11,7 @@ permalink: /publications/
 ### {{ pub.title }}
 - **Authors:** {{ pub.authors }}
 - **Journal:** {{ pub.journal }} ({{ pub.year }})
-- {% if pub.doi %}[DOI Link](https://doi.org/{{ pub.doi }}){% endif %}
+- {% if pub.doi and pub.doi != "" %}[DOI Link](https://doi.org/{{ pub.doi }}){% endif %}
 - {{ pub.content | markdownify }}
 
 ---
