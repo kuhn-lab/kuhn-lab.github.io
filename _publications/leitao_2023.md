@@ -4,6 +4,5 @@ authors: "Leitao SM, Navikas V, Miljkovic H, Drake B, Marion S, Pistoletti Blanc
 journal: "Nature Nanotechnology"
 year: 2023
 doi: "10.1038/s41565-023-01412-4"
-layout: publication
 ---
 

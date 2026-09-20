@@ -32,21 +32,27 @@ titles_from_headings:
   strip_title: false
   collections: false
 
-header_pages:
-  - team.markdown
-  - projects.markdown
-  - publications.markdown
-#  - about.markdown
-
 collections:
   publications:
-    output: true
-    permalink: /publications/:title/
+    output: false
+
+author:
+  name: "Molecular Biology Lab"
+  email: alexandre.kuhn@hevs.ch
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      author_profile: false
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

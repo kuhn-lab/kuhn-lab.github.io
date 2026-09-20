@@ -4,6 +4,5 @@ authors: "David Singer, Aline Adler, Sarah Scotton, Sarah Wegmüller, Alexandre 
 journal: "submitted"
 year: 2026
 doi: ""
-layout: publication
 ---
 

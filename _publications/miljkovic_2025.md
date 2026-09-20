@@ -4,6 +4,5 @@ authors: "Miljkovic H, Feletti L, Pistoletti Blanchet G, Penedo M, Ayar Z, Drake
 journal: "ACS Nano"
 year: 2025
 doi: "10.1021/acsnano.4c18509"
-layout: publication
 ---
 
