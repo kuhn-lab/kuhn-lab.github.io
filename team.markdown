@@ -84,5 +84,5 @@ permalink: /team/
 
 ## 📬 Join Us
 
-We welcome inquiries from prospective students, postdocs, and collaborators. [contact us](mailto:alexndre.kuhn@hevs.ch) for more information.
+We welcome inquiries from prospective students, postdocs, and collaborators. [contact us](mailto:alexandre.kuhn@hevs.ch) for more information.
 
