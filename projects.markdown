@@ -7,19 +7,19 @@ permalink: /projects/
 <!-- ## 🧪 Ongoing Research Projects-->
 ## Ongoing Research Projects
 
-### **Project Biofoundry: Automating the development of bacterial strains for bioproduction**
+### Project Biofoundry: Automating the development of bacterial strains for bioproduction
 - **Funding:** University of Applied Sciences and Arts, Western Switzerland 
 - **Status:** Active
 
 ---
 
-### **Project VITAE: Profiling soil microorganisms**
+### Project VITAE: Profiling soil microorganisms
 - **Funding:** University of Applied Sciences and Arts, Western Switzerland
 - **Status:** Active
 
 ---
 
-### **Project HYPERCELL: Single cell level assessment of adoptive T cell therapy**
+### Project HYPERCELL: Single cell level assessment of adoptive T cell therapy
 - **Funding:** Swiss National Science Foundation
 - **Status:** Active
 
